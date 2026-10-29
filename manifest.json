@@ -1,11 +1,7 @@
 {
-  "name": "Sample Integration",
-  "description": "Sample Xchange integration for testing",
+  "display_name": "Sample Integration",
+  "name": "sample-integration",
   "version": "1.0.0",
   "entry": "main.py",
-  "author": "QA",
-  "enabled": true,
-  "settings": {
-    "environment": "Test"
-  }
+  "description": "Sample integration for testing"
 }
