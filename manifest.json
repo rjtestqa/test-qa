@@ -1,7 +1,7 @@
 {
-  "display_name": "Sample Integration",
-  "name": "sample-integration",
+  "display_name": "QA Test Integration",
+  "description": "Integration used for QA testing",
   "version": "1.0.0",
   "entry": "main.py",
-  "description": "Sample integration for testing"
+  "inputs": []
 }
