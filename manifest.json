@@ -1,9 +1,11 @@
 {
-  "name": "Sample Exchange Job",
-  "description": "Test job for manifest validation",
-  "jobType": "AdHoc",
-  "integrationName": "EmployeeSync",
-  "inputFile": "employee_data.csv",
-  "environment": "UAT",
-  "enabled": true
+  "name": "Sample Integration",
+  "description": "Sample Xchange integration for testing",
+  "version": "1.0.0",
+  "entry": "main.py",
+  "author": "QA",
+  "enabled": true,
+  "settings": {
+    "environment": "Test"
+  }
 }
