@@ -1,6 +1,6 @@
 {
   "display_name": "QA Test Integration",
-  "description": "Integration used for QA testing",
+  "description": "Test integration",
   "version": "1.0.0",
   "entry": "main.py",
   "inputs": []
