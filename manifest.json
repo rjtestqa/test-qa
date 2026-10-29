@@ -1,0 +1,9 @@
+{
+  "name": "Sample Exchange Job",
+  "description": "Test job for manifest validation",
+  "jobType": "AdHoc",
+  "integrationName": "EmployeeSync",
+  "inputFile": "employee_data.csv",
+  "environment": "UAT",
+  "enabled": true
+}
